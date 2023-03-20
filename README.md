@@ -1,1 +1,1 @@
-# Plantify_app
+# Plantify
